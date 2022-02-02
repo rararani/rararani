@@ -1,5 +1,13 @@
 ### Hi there 👋 ... testing 1 2 3...
 
+Currently a 3rd year Computer Science student at the University of Toronto. 
+
+My interests are varied, ranging from the ocean, to the stars ✨, music, game development, or even down to really science-y things like AI, or quantum computing.
+
+- 🔭 I’m currently working on... my own personal website in React (I think it's about time I make one) 👩‍💻
+- 🌱 I’m currently learning... Unity. Ready to bring my vision of a solar/cyber-punk dystopian city to life!
+- ⚡ Fun fact: I say all this, but I'm probably just going to spend all my time on Genshin Impact...
+
 <!--
 **rararani/rararani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
