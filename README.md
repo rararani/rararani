@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 Computer Science Specialist with a Minor in History and Philosophy of Science @ the University of Toronto. Currently on my Professional-Experience Year (PEY).
 
