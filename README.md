@@ -1,6 +1,6 @@
 ### Hi there 👋 ... testing 1 2 3...
 
-Currently a 3rd year Computer Science student at the University of Toronto. 
+Computer Science Specialist with a Minor in History and Philosophy of Science @ the University of Toronto. Currently on my Professional-Experience Year (PEY).
 
 My interests are varied, ranging from the ocean, to the stars ✨, music, game development, or even down to really science-y things like AI, or quantum computing.
 
