@@ -2,7 +2,7 @@
 
 Welcome to my profile! Computer Science Specialist with a Minor in History and Philosophy of Science @ the University of Toronto. Currently on my Professional-Experience Year (PEY).
 
-My interests are varied, ranging from the ocean, to the stars ✨, game development, or even down to real science-y things like AI, or quantum computing.
+My interests are varied, ranging from the ocean, to the stars ✨, game development, or even down to real science-y things like ML, RL, and astrophysics.
 
 🔭 I’m currently working on... my own personal website in React (I think it's about time I make one) 👩‍💻  
 🌱 I’m currently learning... Unity. Ready to bring my vision of a solar/cyber-punk dystopian city to life!  
