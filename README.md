@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my profile! Computer Science Specialist with a Minor in Physics @ the University of Toronto. Currently on my Professional-Experience Year (PEY).
+Welcome to my profile! Computer Science Specialist with a Minor in Physics @ the University of Toronto.
 
 My interests are varied, ranging from the ocean, to the stars ✨, game development, or even down to real science-y things like ML, RL, and astrophysics.
 
