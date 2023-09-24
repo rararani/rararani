@@ -4,7 +4,6 @@ Welcome to my profile! I am a recent graduate Computer Science graduate from Uni
 
 My interests are varied, ranging from the ocean, to the stars ✨, game development, religion, or even down to real science-y things like astrophysics.
 
-🌷 Pronouns: she/they
 🔭 I’m currently working on... my own personal website in React (I think it's about time I make one) 👩‍💻  
 🌱 I’m currently learning... Unreal. The gamer now becomes the dev  
 ⚡ Fun fact: I say all this, but I'm probably just going to spend all my time on Elden Ring...  🐰
