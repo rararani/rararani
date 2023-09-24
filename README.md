@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my profile! I am a recent graduate Computer Science graduate from University of Toronto 🇨🇦.
+Welcome to my profile! I am a recent Computer Science graduate from University of Toronto 🇨🇦.
 
 My interests are varied, ranging from the ocean, to the stars ✨, game development, religion, or even down to real science-y things like astrophysics.
 
