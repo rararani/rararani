@@ -1,8 +1,8 @@
 # Hi there 👋
 
-Welcome to my profile! I am a recent Computer Science graduate from University of Toronto 🇨🇦.
+Welcome to my profile! I'm currently a junior software engineer, but a hobbyist game dev.
 
-My interests are varied, ranging from the ocean, to the stars ✨, game development, religion, or even down to real science-y things like astrophysics. 🐰
+My interests are varied, ranging from the ocean, to the stars ✨, or even more artsy things like writing comics. 🐰
 
 <!--
 **rararani/rararani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
