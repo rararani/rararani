@@ -1,8 +1,6 @@
 # Hi there 👋
 
-Welcome to my profile! I'm currently a junior software engineer, but a hobbyist game dev.
-
-My interests are varied, ranging from the ocean, to the stars ✨, or even more artsy things like writing comics. 🐰
+Welcome to my profile! I am a junior software engineer, writer, and hobbyist game dev.
 
 <!--
 **rararani/rararani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
