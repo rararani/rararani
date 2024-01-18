@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my profile! I am a junior software engineer, writer, and hobbyist game dev.
+A computer science new graduate from the University of Toronto:maple_leaf:. I am a Software Developer, Hobbyist Game Dev, and aspiring Web Developer. I like jamming on the guitar, making my friends roleplay original murder mysteries, and snowboarding :snowboarder:!
 
 <!--
 **rararani/rararani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
