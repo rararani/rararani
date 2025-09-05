@@ -1,4 +1,4 @@
-Hi I'm Rajvi! A Toronto-based data analyst, programmer, and writer.
+Hi I'm Rajvi! A Toronto-based data analyst, and programmer.
 
 Currently working on:
 - a super secret visual novel! (stay tuned for release updates) 🤫
