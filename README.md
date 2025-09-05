@@ -1,4 +1,7 @@
-zzzzzzzzz
+Hi I'm Rajvi! A Toronto-based data analyst, programmer, and writer.
+
+Currently working on:
+- a visual novel! Stay tuned for release updates 🤫
 
 <!--
 **rararani/rararani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
