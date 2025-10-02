@@ -1,7 +1,7 @@
-Hi I'm Rajvi! A Toronto-based data analyst, and programmer.
+Welcome, my name is Rajvi. I'm a Toronto-based programmer, and analyst.
 
 Currently working on:
-- a super secret visual novel! (stay tuned for release updates) 🤫
+- [Graveyard Keeper (New Release!)](https://tostywosty.itch.io/graveyard-keeper)
 
 <!--
 **rararani/rararani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
