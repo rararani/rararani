@@ -1,7 +1,7 @@
 Welcome, my name is Rajvi. I'm a Toronto-based programmer, and analyst.
 
 Currently working on:
-- [Graveyard Keeper (New Release!)](https://tostywosty.itch.io/graveyard-keeper)
+- [Graveyard Keeper (Demo out NOW!)](https://tostywosty.itch.io/graveyard-keeper)
 
 <!--
 **rararani/rararani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
