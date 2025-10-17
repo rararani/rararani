@@ -1,4 +1,4 @@
-Welcome, my name is Rajvi. I'm a Toronto-based programmer, and analyst.
+Welcome, my name is Rajvi. I'm a Toronto-based programmer, analyst, and game-dev enthusiast.
 
 Currently working on:
 - [Graveyard Keeper (Demo out NOW!)](https://tostywosty.itch.io/graveyard-keeper)
